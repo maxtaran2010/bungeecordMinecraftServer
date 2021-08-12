@@ -1,0 +1,60 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: 'меню сервера'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 6
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'menu'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: gold_nugget
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+lobby:
+  COMMAND: 'server lobby'
+  NAME: '&cвернуться в лобби'
+  LORE:
+    - '&l&cкликни&r, чтобы'
+    - 'вернуться в лобби'
+  ID: slime_ball
+  POSITION-X: 8
+  POSITION-Y: 4
+shop:
+  COMMAND: 'tellraw @s магазин'
+  NAME: '&bмагазин'
+  LORE:
+    - '&l&cкликни&r, чтобы'
+    - 'телепортироваться в магазин'
+  ID: gold_ingot
+  POSITION-X: 8
+  POSITION-Y: 2

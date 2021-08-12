@@ -1,0 +1,1835 @@
+12:29:10 [INFO] Using standard Java JCE cipher.
+12:29:10 [INFO] Using standard Java compressor.
+12:29:10 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:29:10 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module cmd_alert v1598
+12:29:10 [INFO] Download complete
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module cmd_find v1598
+12:29:10 [INFO] Download complete
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module cmd_list v1598
+12:29:10 [INFO] Download complete
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module cmd_send v1598
+12:29:10 [INFO] Download complete
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module cmd_server v1598
+12:29:10 [INFO] Download complete
+12:29:10 [INFO] Attempting to update plugin from null to ModuleVersion(build=1598, git=bda1605)
+12:29:10 [INFO] Attempting to Jenkins download module reconnect_yaml v1598
+12:29:10 [INFO] Download complete
+12:29:11 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [WARNING] Forced host server pvp is not defined
+12:29:11 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:11 [INFO] Listening on /0.0.0.0:25577
+12:29:18 [INFO] §cCommand not found
+12:29:21 [INFO] §cCommand not found
+12:29:24 [INFO] §cCommand not found
+12:29:28 [INFO] Using standard Java JCE cipher.
+12:29:28 [INFO] Using standard Java compressor.
+12:29:28 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:29:28 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:29:28 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [WARNING] Forced host server pvp is not defined
+12:29:28 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:29:28 [INFO] Listening on /0.0.0.0:25577
+12:31:36 [INFO] Using standard Java JCE cipher.
+12:31:36 [INFO] Using standard Java compressor.
+12:31:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:31:37 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:31:37 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [WARNING] Forced host server pvp is not defined
+12:31:37 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:31:37 [INFO] Listening on /0.0.0.0:25577
+12:31:50 [INFO] §cCommand not found
+12:31:53 [INFO] §cCommand not found
+12:31:58 [INFO] §cCommand not found
+12:32:00 [INFO] §cCommand not found
+12:32:02 [INFO] §cCommand not found
+12:32:04 [INFO] §cCommand not found
+12:32:57 [INFO] Using standard Java JCE cipher.
+12:32:57 [INFO] Using standard Java compressor.
+12:32:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:32:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:32:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [WARNING] Forced host server pvp is not defined
+12:32:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:32:57 [INFO] Listening on /0.0.0.0:25577
+12:33:00 [INFO] §cYou must supply a message.
+12:33:06 [INFO] §cCommand not found
+12:33:11 [INFO] §8[§4Alert§8]§f help
+12:33:19 [INFO] §cCommand not found
+12:33:24 [INFO] §8[§4Alert§8]§f ooo
+12:33:29 [INFO] §9This server is running BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598 by md_5
+12:37:32 [INFO] [tmasik,/127.0.0.1:50232] <-> InitialHandler has connected
+12:37:33 [INFO] [tmasik] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+12:37:33 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:37:56 [INFO] [/127.0.0.1:50243] <-> InitialHandler has connected
+12:37:56 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:37:56 [SEVERE] [tmasik] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:37:56 [INFO] [tmasik] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:37:56 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:37:56 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:41:50 [INFO] [misterkapysta,/127.0.0.1:63024] <-> InitialHandler has connected
+12:41:50 [INFO] [misterkapysta] <-> ServerConnector [lobby] has connected
+12:41:50 [SEVERE] [misterkapysta] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:41:50 [INFO] [misterkapysta] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:41:50 [INFO] [misterkapysta] -> UpstreamBridge has disconnected
+12:41:50 [INFO] [misterkapysta] <-> ServerConnector [lobby] has disconnected
+12:43:27 [INFO] Using standard Java JCE cipher.
+12:43:27 [INFO] Using standard Java compressor.
+12:43:27 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:43:27 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:43:27 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [WARNING] Forced host server pvp is not defined
+12:43:27 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:43:27 [INFO] Listening on /0.0.0.0:25577
+12:43:31 [INFO] [/127.0.0.1:63048] <-> InitialHandler has connected
+12:43:31 [INFO] [misterkapysta] <-> ServerConnector [lobby] has connected
+12:43:31 [SEVERE] [misterkapysta] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:43:31 [INFO] [misterkapysta] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:43:31 [INFO] [misterkapysta] -> UpstreamBridge has disconnected
+12:43:31 [INFO] [misterkapysta] <-> ServerConnector [lobby] has disconnected
+12:46:17 [INFO] Using standard Java JCE cipher.
+12:46:17 [INFO] Using standard Java compressor.
+12:46:17 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:46:17 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:46:17 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [WARNING] Forced host server pvp is not defined
+12:46:17 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:46:17 [INFO] Listening on /0.0.0.0:25577
+12:46:21 [INFO] [/127.0.0.1:58731] <-> InitialHandler has connected
+12:46:21 [INFO] [misterkapysta] <-> ServerConnector [lobby] has connected
+12:46:21 [SEVERE] [misterkapysta] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:46:21 [INFO] [misterkapysta] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:46:21 [INFO] [misterkapysta] -> UpstreamBridge has disconnected
+12:46:21 [INFO] [misterkapysta] <-> ServerConnector [lobby] has disconnected
+12:49:03 [INFO] Using standard Java JCE cipher.
+12:49:03 [INFO] Using standard Java compressor.
+12:49:03 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:49:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:49:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [WARNING] Forced host server pvp is not defined
+12:49:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:49:03 [INFO] Listening on /0.0.0.0:25577
+12:49:19 [INFO] [/127.0.0.1:53244] <-> InitialHandler has connected
+12:49:19 [INFO] [misterkapysta] <-> ServerConnector [lobby] has connected
+12:49:19 [SEVERE] [misterkapysta] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:49:19 [INFO] [misterkapysta] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:49:19 [INFO] [misterkapysta] -> UpstreamBridge has disconnected
+12:49:19 [INFO] [misterkapysta] <-> ServerConnector [lobby] has disconnected
+12:49:23 [INFO] [/127.0.0.1:53246] <-> InitialHandler has connected
+12:49:23 [INFO] [misterkapysta] <-> ServerConnector [lobby] has connected
+12:49:23 [SEVERE] [misterkapysta] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:49:23 [INFO] [misterkapysta] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:49:23 [INFO] [misterkapysta] -> UpstreamBridge has disconnected
+12:49:23 [INFO] [misterkapysta] <-> ServerConnector [lobby] has disconnected
+12:50:09 [INFO] [tmasik,/127.0.0.1:53279] <-> InitialHandler has connected
+12:50:09 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:50:09 [SEVERE] [tmasik] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:50:09 [INFO] [tmasik] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:50:09 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:50:09 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:50:38 [INFO] Using standard Java JCE cipher.
+12:50:38 [INFO] Using standard Java compressor.
+12:50:38 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:50:38 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:50:38 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [WARNING] Forced host server pvp is not defined
+12:50:38 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:50:38 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:50:38 [INFO] Listening on /0.0.0.0:25577
+12:50:52 [INFO] [/127.0.0.1:53316] <-> InitialHandler has connected
+12:50:53 [INFO] [tmasik] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+12:50:53 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:52:04 [INFO] [tmasik,/127.0.0.1:53327] <-> InitialHandler has connected
+12:52:04 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:52:04 [SEVERE] [tmasik] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+12:52:04 [INFO] [tmasik] disconnected with: §fException Connecting:QuietException : Server is online mode!
+12:52:04 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:52:04 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+13:17:53 [INFO] Using standard Java JCE cipher.
+13:17:53 [INFO] Using standard Java compressor.
+13:17:53 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:17:53 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:17:53 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [WARNING] Forced host server pvp is not defined
+13:17:53 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:17:53 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:17:53 [INFO] Listening on /0.0.0.0:25577
+13:29:14 [INFO] Using standard Java JCE cipher.
+13:29:14 [INFO] Using standard Java compressor.
+13:29:14 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:29:14 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:29:14 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [WARNING] Forced host server pvp is not defined
+13:29:14 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:29:14 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:14 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:15 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:29:15 [INFO] Listening on /0.0.0.0:25577
+13:30:31 [INFO] [/127.0.0.1:54472] <-> InitialHandler has connected
+13:30:31 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:30:48 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:30:48 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:38:39 [INFO] [/127.0.0.1:54502] <-> InitialHandler has connected
+13:38:39 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:39:38 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:39:38 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:40:33 [INFO] §a[test] §e(0): §r
+13:40:33 [INFO] §a[lobby] §e(0): §r
+13:40:33 [INFO] Total players online: 0
+13:40:39 [INFO] [tmasik,/127.0.0.1:51471] <-> InitialHandler has connected
+13:40:39 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:40:43 [INFO] §a[test] §e(0): §r
+13:40:43 [INFO] §a[lobby] §e(1): §rtmasik
+13:40:43 [INFO] Total players online: 1
+13:41:30 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:41:30 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:42:34 [INFO] Closing listener [id: 0x72355ee1, L:/0:0:0:0:0:0:0:0:25577]
+13:42:34 [INFO] Closing pending connections
+13:42:34 [INFO] Disconnecting 0 connections
+13:42:35 [INFO] Saving reconnect locations
+13:42:35 [INFO] Disabling plugins
+13:42:35 [INFO] Closing IO threads
+13:43:40 [INFO] Using standard Java JCE cipher.
+13:43:40 [INFO] Using standard Java compressor.
+13:43:40 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:43:40 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:43:40 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [WARNING] Forced host server pvp is not defined
+13:43:40 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:43:40 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:40 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:43:41 [INFO] Listening on /0.0.0.0:25577
+13:45:17 [INFO] [/127.0.0.1:62639] <-> InitialHandler has connected
+13:45:17 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:45:27 [INFO] [tmasik] <-> ServerConnector [test] has connected
+13:45:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:45:36 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:45:36 [INFO] [tmasik] <-> DownstreamBridge <-> [test] has disconnected
+13:46:15 [INFO] [tmasik,/127.0.0.1:62642] <-> InitialHandler has connected
+13:46:15 [INFO] [tmasik] <-> ServerConnector [test] has connected
+13:47:42 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:42 [INFO] [tmasik] <-> DownstreamBridge <-> [test] has disconnected
+13:47:49 [INFO] [tmasik] <-> ServerConnector [test] has connected
+13:47:49 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:47:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:54 [INFO] [tmasik] <-> DownstreamBridge <-> [test] has disconnected
+13:48:11 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:48:11 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:40:29 [INFO] [/127.0.0.1:51512] <-> InitialHandler has connected
+14:40:29 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:40:46 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:40:46 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:41:32 [INFO] [/127.0.0.1:51549] <-> InitialHandler has pinged
+14:41:36 [INFO] [tmasik,/127.0.0.1:51550] <-> InitialHandler has connected
+14:41:36 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:41:36 [INFO] [tmasik] disconnected with: §cKicked whilst connecting to lobby: §fOutdated client! Please use 1.15
+14:41:36 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:41:36 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+14:43:20 [INFO] [/127.0.0.1:51582] <-> InitialHandler has pinged
+14:43:21 [INFO] [tmasik,/127.0.0.1:51583] <-> InitialHandler has connected
+14:43:21 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:43:21 [INFO] [tmasik] disconnected with: §cKicked whilst connecting to lobby: §fOutdated client! Please use 1.15
+14:43:21 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:43:21 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:41:21 [INFO] Using standard Java JCE cipher.
+12:41:21 [INFO] Using standard Java compressor.
+12:41:21 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:41:21 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:41:21 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Loaded plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:41:21 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [WARNING] Forced host server pvp is not defined
+12:41:21 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:41:21 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:21 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:22 [INFO] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+12:41:22 [INFO] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+12:41:22 [INFO] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+12:41:22 [INFO] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+12:41:22 [INFO] [ViaVersion] Loading block connection mappings ...
+12:41:22 [INFO] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+12:41:22 [INFO] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+12:41:22 [INFO] Enabled plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:41:22 [INFO] [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+12:41:22 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:22 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:22 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:22 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:41:22 [INFO] Listening on /0.0.0.0:25577
+12:41:22 [WARNING] [ViaVersion] There is a newer version available: 4.0.1, you're on: 3.2.1
+12:41:23 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+12:54:43 [INFO] Using standard Java JCE cipher.
+12:54:43 [INFO] Using standard Java compressor.
+12:54:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:54:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:54:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Loaded plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:54:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [WARNING] Forced host server pvp is not defined
+12:54:43 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:54:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:44 [INFO] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+12:54:44 [INFO] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+12:54:44 [INFO] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+12:54:44 [INFO] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+12:54:44 [INFO] [ViaVersion] Loading block connection mappings ...
+12:54:44 [INFO] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+12:54:44 [INFO] Enabled plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:54:44 [INFO] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+12:54:44 [INFO] [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+12:54:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:54:44 [INFO] Listening on /0.0.0.0:25577
+12:54:44 [WARNING] [ViaVersion] There is a newer version available: 4.0.1, you're on: 3.2.1
+12:54:45 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+12:54:50 [INFO] [/127.0.0.1:57667] <-> InitialHandler has pinged
+12:54:51 [INFO] [/127.0.0.1:57669] <-> InitialHandler has connected
+12:54:51 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:54:51 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:54:51 [WARNING] No client connected for pending server!
+12:54:51 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:55:16 [INFO] [/127.0.0.1:57672] <-> InitialHandler has pinged
+12:55:17 [INFO] [/127.0.0.1:57674] <-> InitialHandler has pinged
+12:55:17 [INFO] [/127.0.0.1:57676] <-> InitialHandler has pinged
+12:55:17 [INFO] [/127.0.0.1:57678] <-> InitialHandler has pinged
+12:55:17 [INFO] [/127.0.0.1:57680] <-> InitialHandler has pinged
+12:55:18 [INFO] [/127.0.0.1:57682] <-> InitialHandler has pinged
+12:55:18 [INFO] [/127.0.0.1:57684] <-> InitialHandler has pinged
+12:55:18 [INFO] [/127.0.0.1:57686] <-> InitialHandler has pinged
+12:55:19 [INFO] [/127.0.0.1:57688] <-> InitialHandler has pinged
+12:55:19 [INFO] [/127.0.0.1:57690] <-> InitialHandler has pinged
+12:55:19 [INFO] [/127.0.0.1:57692] <-> InitialHandler has pinged
+12:55:20 [INFO] [/127.0.0.1:57694] <-> InitialHandler has pinged
+12:55:20 [INFO] [/127.0.0.1:57696] <-> InitialHandler has pinged
+12:55:20 [INFO] [/127.0.0.1:57698] <-> InitialHandler has pinged
+12:55:20 [INFO] [/127.0.0.1:57700] <-> InitialHandler has pinged
+12:55:22 [INFO] [/127.0.0.1:57702] <-> InitialHandler has connected
+12:55:22 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:55:22 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:55:22 [WARNING] No client connected for pending server!
+12:55:22 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:55:28 [INFO] [/127.0.0.1:57705] <-> InitialHandler has pinged
+12:55:28 [INFO] [tmasik,/127.0.0.1:57707] <-> InitialHandler has connected
+12:55:28 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:55:28 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:55:28 [WARNING] No client connected for pending server!
+12:55:28 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:57:44 [INFO] Using standard Java JCE cipher.
+12:57:44 [INFO] Using standard Java compressor.
+12:57:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:57:45 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:57:46 [INFO] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+12:57:46 [INFO] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+12:57:46 [INFO] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+12:57:47 [INFO] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+12:57:47 [INFO] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+12:57:47 [INFO] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+12:57:47 [INFO] [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+12:57:47 [WARNING] [ViaVersion] There is a newer version available: 4.0.1, you're on: 3.2.1
+12:57:45 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:57:45 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:57:45 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:57:45 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:57:45 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:57:45 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [INFO] Loaded plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:57:45 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:45 [WARNING] Forced host server pvp is not defined
+12:57:45 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:57:45 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:48 [INFO] [ViaVersion] Loading block connection mappings ...
+12:57:45 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:47 [INFO] Enabled plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+12:57:47 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:47 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:47 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:50 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+12:57:47 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:57:48 [INFO] Listening on /0.0.0.0:25577
+12:57:48 [INFO] [/127.0.0.1:54930] <-> InitialHandler has pinged
+12:57:50 [INFO] [tmasik,/127.0.0.1:54941] <-> InitialHandler has connected
+12:57:50 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:57:50 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:57:51 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:58:41 [INFO] [/127.0.0.1:54949] <-> InitialHandler has pinged
+12:58:42 [INFO] [/127.0.0.1:54951] <-> InitialHandler has connected
+12:58:42 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:58:42 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:58:42 [WARNING] No client connected for pending server!
+12:58:42 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+12:59:10 [INFO] [/127.0.0.1:54480] <-> InitialHandler has pinged
+12:59:36 [INFO] Using standard Java JCE cipher.
+12:59:36 [INFO] Using standard Java compressor.
+12:59:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+12:59:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+12:59:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [WARNING] Forced host server pvp is not defined
+12:59:36 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+12:59:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+12:59:36 [INFO] Listening on /0.0.0.0:25577
+12:59:40 [INFO] [/127.0.0.1:54501] <-> InitialHandler has pinged
+12:59:41 [INFO] [/127.0.0.1:54503] <-> InitialHandler has connected
+12:59:41 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+12:59:53 [INFO] [tmasik] -> UpstreamBridge has disconnected
+12:59:53 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+12:59:54 [INFO] [/127.0.0.1:54505] <-> InitialHandler has pinged
+13:00:01 [INFO] Closing listener [id: 0x50123a36, L:/0:0:0:0:0:0:0:0:25577]
+13:00:01 [INFO] Closing pending connections
+13:00:01 [INFO] Disconnecting 0 connections
+13:00:02 [INFO] Saving reconnect locations
+13:00:02 [INFO] Disabling plugins
+13:00:02 [INFO] Closing IO threads
+13:45:55 [INFO] Using standard Java JCE cipher.
+13:45:55 [INFO] Using standard Java compressor.
+13:45:55 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:45:55 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:45:55 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [WARNING] Forced host server pvp is not defined
+13:45:55 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:45:55 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:45:55 [INFO] Listening on /0.0.0.0:25577
+13:46:35 [INFO] [/127.0.0.1:64145] <-> InitialHandler has pinged
+13:46:38 [INFO] [/127.0.0.1:64146] <-> InitialHandler has connected
+13:46:38 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:15 [INFO] [tmasik] <-> ServerConnector [test] has connected
+13:47:15 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:50:01 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:50:01 [INFO] [tmasik] <-> DownstreamBridge <-> [test] has disconnected
+13:50:03 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:50:03 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:50:03 [INFO] [/127.0.0.1:56094] <-> InitialHandler has pinged
+13:53:46 [INFO] Using standard Java JCE cipher.
+13:53:46 [INFO] Using standard Java compressor.
+13:53:46 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:53:46 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:53:46 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [WARNING] Forced host server pvp is not defined
+13:53:46 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:53:46 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:53:46 [INFO] Listening on /0.0.0.0:25577
+13:53:49 [INFO] [/127.0.0.1:62444] <-> InitialHandler has pinged
+13:53:59 [INFO] [/127.0.0.1:62446] <-> InitialHandler has connected
+13:53:59 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:54:05 [INFO] [tmasik] <-> ServerConnector [test] has connected
+13:54:05 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:54:07 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:54:07 [INFO] [tmasik] <-> DownstreamBridge <-> [test] has disconnected
+13:54:07 [INFO] [/127.0.0.1:62450] <-> InitialHandler has pinged
+13:57:40 [INFO] Using standard Java JCE cipher.
+13:57:40 [INFO] Using standard Java compressor.
+13:57:40 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:57:40 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:57:40 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [WARNING] Forced host server pvp is not defined
+13:57:40 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:57:40 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:57:40 [INFO] Listening on /0.0.0.0:25565
+13:58:04 [INFO] [/127.0.0.1:60108] <-> InitialHandler has pinged
+13:58:30 [INFO] Closing listener [id: 0x9fa80b4a, L:/0:0:0:0:0:0:0:0:25565]
+13:58:30 [INFO] Closing pending connections
+13:58:30 [INFO] Disconnecting 0 connections
+13:58:30 [INFO] Saving reconnect locations
+13:58:30 [INFO] Disabling plugins
+13:58:30 [INFO] Closing IO threads
+13:59:26 [INFO] Using standard Java JCE cipher.
+13:59:26 [INFO] Using standard Java compressor.
+13:59:26 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:59:26 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:59:26 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [WARNING] Forced host server pvp is not defined
+13:59:26 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:59:26 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:26 [INFO] Listening on /0.0.0.0:25565
+13:59:40 [INFO] [/127.0.0.1:60148] <-> InitialHandler has pinged
+13:59:41 [INFO] [/127.0.0.1:60151] <-> InitialHandler has pinged
+13:59:44 [INFO] [/127.0.0.1:60152] <-> InitialHandler has pinged
+13:59:59 [INFO] Using standard Java JCE cipher.
+13:59:59 [INFO] Using standard Java compressor.
+13:59:59 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:59:59 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [WARNING] Forced host server pvp is not defined
+13:59:59 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:59:59 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:59:59 [INFO] Listening on /0.0.0.0:25565
+14:00:19 [INFO] Using standard Java JCE cipher.
+14:00:19 [INFO] Using standard Java compressor.
+14:00:19 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:00:19 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:00:19 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [WARNING] Forced host server pvp is not defined
+14:00:19 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:00:19 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:00:19 [INFO] Listening on /0.0.0.0:25565
+14:09:26 [INFO] [/127.0.0.1:64339] <-> InitialHandler has pinged
+14:11:21 [INFO] [/127.0.0.1:56528] <-> InitialHandler has pinged
+14:11:28 [INFO] [/127.0.0.1:56540] <-> InitialHandler has pinged
+14:11:28 [INFO] [/127.0.0.1:56541] <-> InitialHandler has pinged
+14:11:28 [INFO] [/127.0.0.1:56542] <-> InitialHandler has pinged
+14:11:29 [INFO] [/127.0.0.1:56543] <-> InitialHandler has pinged
+14:11:29 [INFO] [/127.0.0.1:56544] <-> InitialHandler has pinged
+14:11:29 [INFO] [/127.0.0.1:56545] <-> InitialHandler has pinged
+14:11:29 [INFO] [/127.0.0.1:56546] <-> InitialHandler has pinged
+14:11:29 [INFO] [/127.0.0.1:56547] <-> InitialHandler has pinged
+14:11:30 [INFO] [/127.0.0.1:56549] <-> InitialHandler has pinged
+14:11:30 [INFO] [/127.0.0.1:56550] <-> InitialHandler has pinged
+14:11:30 [INFO] [/127.0.0.1:56551] <-> InitialHandler has pinged
+14:11:45 [INFO] [/127.0.0.1:56554] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56556] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56558] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56560] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56562] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56564] <-> InitialHandler has pinged
+14:11:46 [INFO] [/127.0.0.1:56566] <-> InitialHandler has pinged
+14:11:47 [INFO] [/127.0.0.1:56568] <-> InitialHandler has pinged
+14:12:09 [INFO] [/127.0.0.1:56570] <-> InitialHandler has pinged
+14:12:19 [INFO] [/127.0.0.1:56573] <-> InitialHandler has pinged
+14:12:20 [INFO] [/127.0.0.1:56575] <-> InitialHandler has pinged
+14:12:20 [INFO] [/127.0.0.1:56577] <-> InitialHandler has pinged
+14:12:20 [INFO] [/127.0.0.1:56579] <-> InitialHandler has pinged
+14:12:20 [INFO] [/127.0.0.1:56581] <-> InitialHandler has pinged
+14:12:33 [INFO] [/127.0.0.1:56593] <-> InitialHandler has pinged
+14:12:34 [INFO] [/127.0.0.1:56595] <-> InitialHandler has pinged
+14:12:34 [INFO] [/127.0.0.1:56597] <-> InitialHandler has pinged
+14:12:34 [INFO] [/127.0.0.1:56599] <-> InitialHandler has pinged
+14:12:34 [INFO] [/127.0.0.1:56601] <-> InitialHandler has pinged
+14:12:35 [INFO] [/127.0.0.1:56603] <-> InitialHandler has pinged
+14:12:35 [INFO] [/127.0.0.1:56605] <-> InitialHandler has pinged
+14:12:35 [INFO] [/127.0.0.1:56607] <-> InitialHandler has pinged
+14:12:35 [INFO] [/127.0.0.1:56609] <-> InitialHandler has pinged
+14:12:36 [INFO] [/127.0.0.1:56611] <-> InitialHandler has pinged
+14:12:36 [INFO] [/127.0.0.1:56613] <-> InitialHandler has pinged
+14:12:36 [INFO] [/127.0.0.1:56615] <-> InitialHandler has pinged
+14:12:36 [INFO] [/127.0.0.1:56617] <-> InitialHandler has pinged
+14:12:36 [INFO] [/127.0.0.1:56619] <-> InitialHandler has pinged
+14:13:00 [INFO] Closing listener [id: 0xaeec3861, L:/0:0:0:0:0:0:0:0:25565]
+14:13:00 [INFO] Closing pending connections
+14:13:00 [INFO] Disconnecting 0 connections
+14:13:00 [INFO] Saving reconnect locations
+14:13:00 [INFO] Disabling plugins
+14:13:00 [INFO] Closing IO threads
+14:13:02 [INFO] Using standard Java JCE cipher.
+14:13:02 [INFO] Using standard Java compressor.
+14:13:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:13:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:13:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [WARNING] Forced host server pvp is not defined
+14:13:03 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:13:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:13:03 [INFO] Listening on /0.0.0.0:25565
+14:13:06 [INFO] [/127.0.0.1:64357] <-> InitialHandler has pinged
+14:13:06 [INFO] [/127.0.0.1:64358] <-> InitialHandler has pinged
+14:13:07 [INFO] [/127.0.0.1:64359] <-> InitialHandler has pinged
+14:13:07 [INFO] [/127.0.0.1:64360] <-> InitialHandler has pinged
+14:13:07 [INFO] [/127.0.0.1:64361] <-> InitialHandler has pinged
+14:13:07 [INFO] [/127.0.0.1:64362] <-> InitialHandler has pinged
+14:13:08 [INFO] [/127.0.0.1:64363] <-> InitialHandler has pinged
+14:13:08 [INFO] [/127.0.0.1:64364] <-> InitialHandler has pinged
+14:13:09 [INFO] [/127.0.0.1:64365] <-> InitialHandler has pinged
+14:13:09 [INFO] [/127.0.0.1:64366] <-> InitialHandler has pinged
+14:13:09 [INFO] [/127.0.0.1:64367] <-> InitialHandler has pinged
+14:13:09 [INFO] [/127.0.0.1:64368] <-> InitialHandler has pinged
+14:13:26 [INFO] §8[§4Alert§8]§f hello!
+14:13:28 [INFO] [/127.0.0.1:64369] <-> InitialHandler has connected
+14:13:28 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:13:42 [INFO] §8[§4Alert§8]§f hello!
+14:14:13 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:14:13 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:14:30 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:14:30 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:14:50 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:14:50 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:14:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:14:54 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:15:02 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:15:02 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:15:04 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:15:04 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:15:27 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:15:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:15:28 [INFO] [/127.0.0.1:64388] <-> InitialHandler has pinged
+14:16:08 [INFO] [tmasik,/127.0.0.1:64390] <-> InitialHandler has connected
+14:16:08 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:16:16 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:16:16 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:16:17 [INFO] [/127.0.0.1:64393] <-> InitialHandler has pinged
+14:16:17 [INFO] [tmasik,/127.0.0.1:64394] <-> InitialHandler has connected
+14:16:17 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:16:20 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:16:20 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:16:20 [INFO] [/127.0.0.1:64397] <-> InitialHandler has pinged
+14:20:02 [INFO] §cNot enough arguments, usage: /send <server|player|all|current> <target>
+14:20:21 [INFO] §cCommand not found
+14:20:27 [INFO] §cThe specified server does not exist.
+14:20:32 [INFO] §cNot enough arguments, usage: /send <server|player|all|current> <target>
+14:20:38 [INFO] §cNot enough arguments, usage: /send <server|player|all|current> <target>
+14:20:41 [INFO] [tmasik,/127.0.0.1:63836] <-> InitialHandler has connected
+14:20:41 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:20:49 [INFO] §cThe specified server does not exist.
+14:20:57 [INFO] §cNot enough arguments, usage: /send <server|player|all|current> <target>
+14:21:07 [INFO] §cThe specified server does not exist.
+14:21:15 [INFO] §cThe specified server does not exist.
+14:21:21 [INFO] §cThe specified server does not exist.
+14:21:50 [INFO] §cCommand not found
+14:21:53 [INFO] §cCommand not found
+14:21:57 [INFO] Closing listener [id: 0xf341ddec, L:/0:0:0:0:0:0:0:0:25565]
+14:21:57 [INFO] Closing pending connections
+14:21:57 [INFO] Disconnecting 1 connections
+14:21:57 [INFO] [tmasik] disconnected with: §f[Proxy] Proxy restarting.
+14:21:57 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:21:57 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:21:57 [INFO] Saving reconnect locations
+14:21:57 [INFO] Disabling plugins
+14:21:57 [INFO] Closing IO threads
+14:22:09 [INFO] Using standard Java JCE cipher.
+14:22:09 [INFO] Using standard Java compressor.
+14:22:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:22:09 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:22:09 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [WARNING] Forced host server pvp is not defined
+14:22:09 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:22:09 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:22:09 [INFO] Listening on /0.0.0.0:25565
+14:22:11 [INFO] [/127.0.0.1:63856] <-> InitialHandler has pinged
+14:22:12 [INFO] [/127.0.0.1:63857] <-> InitialHandler has connected
+14:22:12 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:25:45 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:25:45 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:25:46 [INFO] [/127.0.0.1:52329] <-> InitialHandler has pinged
+14:25:47 [INFO] [tmasik,/127.0.0.1:52330] <-> InitialHandler has connected
+14:25:47 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:26:40 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:26:40 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:26:40 [INFO] [/127.0.0.1:52332] <-> InitialHandler has pinged
+14:26:42 [INFO] [tmasik,/127.0.0.1:52333] <-> InitialHandler has connected
+14:26:42 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:28:27 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:28:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:28:28 [INFO] [/127.0.0.1:58962] <-> InitialHandler has pinged
+14:33:32 [INFO] Using standard Java JCE cipher.
+14:33:32 [INFO] Using standard Java compressor.
+14:33:32 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:33:32 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:33:32 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [WARNING] Forced host server pvp is not defined
+14:33:32 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:33:32 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:33:32 [INFO] Listening on /0.0.0.0:25565
+14:34:44 [INFO] [/127.0.0.1:56203] <-> InitialHandler has pinged
+14:34:45 [INFO] [tmasik,/127.0.0.1:56204] <-> InitialHandler has connected
+14:34:45 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:35:06 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:35:06 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:36:00 [INFO] Closing listener [id: 0x3bb6050b, L:/0:0:0:0:0:0:0:0:25565]
+14:36:00 [INFO] Closing pending connections
+14:36:00 [INFO] Disconnecting 0 connections
+14:36:00 [INFO] Saving reconnect locations
+14:36:00 [INFO] Disabling plugins
+14:36:00 [INFO] Closing IO threads
+14:36:11 [INFO] Using standard Java JCE cipher.
+14:36:11 [INFO] Using standard Java compressor.
+14:36:11 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:36:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:36:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [WARNING] Forced host server pvp is not defined
+14:36:12 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:36:12 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:12 [INFO] Listening on /0.0.0.0:25565
+14:36:41 [INFO] Using standard Java JCE cipher.
+14:36:41 [INFO] Using standard Java compressor.
+14:36:41 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:36:41 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:36:41 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:36:41 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:36:41 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:36:41 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:36:41 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:36:42 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [WARNING] Forced host server pvp is not defined
+14:36:42 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:36:42 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:36:42 [INFO] Listening on /0.0.0.0:25565
+14:38:48 [INFO] [/127.0.0.1:56332] <-> InitialHandler has pinged
+14:38:49 [INFO] [/127.0.0.1:56333] <-> InitialHandler has connected
+14:38:49 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:41:59 [INFO] §cCommand not found
+14:42:08 [INFO] §cCommand not found
+14:42:41 [INFO] [tmasik] disconnected with: §fServer closed
+14:42:41 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:42:41 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:42:48 [INFO] [/127.0.0.1:56340] <-> InitialHandler has pinged
+14:42:48 [INFO] [/127.0.0.1:56341] <-> InitialHandler has pinged
+14:42:49 [INFO] [/127.0.0.1:56342] <-> InitialHandler has pinged
+14:42:50 [INFO] [/127.0.0.1:56351] <-> InitialHandler has connected
+14:42:50 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:42:50 [INFO] [tmasik] disconnected with: §cKicked whilst connecting to lobby: §fOutdated server! Im still on {0}
+14:42:50 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:42:50 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+14:42:54 [INFO] [/127.0.0.1:56353] <-> InitialHandler has connected
+14:42:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:48:24 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:48:24 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:48:24 [INFO] [/127.0.0.1:63890] <-> InitialHandler has pinged
+14:48:26 [INFO] [tmasik,/127.0.0.1:63891] <-> InitialHandler has connected
+14:48:26 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:48:28 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:48:28 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:48:29 [INFO] [/127.0.0.1:63893] <-> InitialHandler has pinged
+14:48:37 [INFO] [/127.0.0.1:63896] <-> InitialHandler has pinged
+14:48:51 [INFO] [/127.0.0.1:63898] <-> InitialHandler has pinged
+14:51:29 [INFO] [/127.0.0.1:55821] <-> InitialHandler has pinged
+14:51:30 [INFO] [/127.0.0.1:55822] <-> InitialHandler has pinged
+14:51:30 [INFO] [/127.0.0.1:55823] <-> InitialHandler has pinged
+14:51:31 [INFO] [tmasik,/127.0.0.1:55824] <-> InitialHandler has connected
+14:51:31 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:55:37 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:55:37 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:31:00 [INFO] Using standard Java JCE cipher.
+13:31:00 [INFO] Using standard Java compressor.
+13:31:00 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:31:00 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:31:00 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:31:00 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:31:00 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:31:00 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:31:00 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:31:01 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Loaded plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+13:31:01 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [WARNING] Forced host server pvp is not defined
+13:31:01 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:31:01 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] [ViaVersion] Loading 1.12 -> 1.13 mappings...
+13:31:01 [INFO] [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+13:31:01 [INFO] [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+13:31:01 [INFO] [ViaVersion] Loading 1.14 -> 1.15 mappings...
+13:31:01 [INFO] [ViaVersion] Loading block connection mappings ...
+13:31:01 [INFO] [ViaVersion] Loading 1.15 -> 1.16 mappings...
+13:31:01 [INFO] [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+13:31:01 [INFO] Enabled plugin ViaVersion version 3.2.1 by _MylesC, creeper123123321, Gerrygames, KennyTV, Matsv
+13:31:01 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+13:31:01 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:01 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:31:02 [INFO] [ViaVersion] Finished mapping loading, shutting down loader executor!
+13:31:02 [INFO] Listening on /0.0.0.0:25565
+13:31:45 [INFO] [/127.0.0.1:60376] <-> InitialHandler has pinged
+13:31:46 [INFO] [/127.0.0.1:60377] <-> InitialHandler has connected
+13:31:46 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:31:46 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:31:46 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+13:31:53 [INFO] [/127.0.0.1:60381] <-> InitialHandler has pinged
+13:32:10 [INFO] [/127.0.0.1:60385] <-> InitialHandler has connected
+13:32:10 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:32:10 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:32:10 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+13:32:25 [INFO] [/127.0.0.1:60389] <-> InitialHandler has pinged
+13:32:26 [INFO] [/127.0.0.1:60390] <-> InitialHandler has connected
+13:32:26 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:32:26 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:32:26 [WARNING] No client connected for pending server!
+13:32:26 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+13:32:28 [INFO] [/127.0.0.1:60394] <-> InitialHandler has pinged
+13:32:29 [INFO] [tmasik,/127.0.0.1:60395] <-> InitialHandler has connected
+13:32:29 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:32:29 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:32:30 [WARNING] No client connected for pending server!
+13:32:30 [INFO] [tmasik] <-> ServerConnector [lobby] has disconnected
+13:32:43 [INFO] Using standard Java JCE cipher.
+13:32:43 [INFO] Using standard Java compressor.
+13:32:43 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+13:32:43 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+13:32:43 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [WARNING] Forced host server pvp is not defined
+13:32:43 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+13:32:43 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+13:32:43 [INFO] Listening on /0.0.0.0:25565
+13:32:44 [INFO] [/127.0.0.1:60416] <-> InitialHandler has pinged
+13:32:45 [INFO] [/127.0.0.1:60419] <-> InitialHandler has pinged
+13:32:45 [INFO] [/127.0.0.1:60422] <-> InitialHandler has pinged
+13:32:46 [INFO] [/127.0.0.1:60425] <-> InitialHandler has pinged
+13:32:47 [INFO] [/127.0.0.1:60426] <-> InitialHandler has connected
+13:32:47 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:33:16 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+13:33:16 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:33:29 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:33:29 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+13:34:18 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:34:18 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:34:18 [INFO] [/127.0.0.1:63681] <-> InitialHandler has pinged
+13:41:10 [INFO] [/127.0.0.1:57597] <-> InitialHandler has pinged
+13:41:11 [INFO] [tmasik,/127.0.0.1:57598] <-> InitialHandler has connected
+13:41:11 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:42:36 [WARNING] [tmasik] <-> DownstreamBridge <-> [lobby] - IOException: Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå
+13:42:36 [INFO] [tmasik] disconnected with: §fIOException : Óäàëåííûé õîñò ïðèíóäèòåëüíî ðàçîðâàë ñóùåñòâóþùåå ïîäêëþ÷åíèå @ sun.nio.ch.SocketDispatcher:-2
+13:42:36 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:42:36 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:42:54 [INFO] [tmasik,/127.0.0.1:51220] <-> InitialHandler has connected
+13:42:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:18 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:47:18 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:47:18 [INFO] [/127.0.0.1:59382] <-> InitialHandler has pinged
+13:47:19 [INFO] [tmasik,/127.0.0.1:59385] <-> InitialHandler has connected
+13:47:19 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:24 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:47:24 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:47:24 [INFO] [/127.0.0.1:59389] <-> InitialHandler has pinged
+13:47:25 [INFO] [tmasik,/127.0.0.1:59390] <-> InitialHandler has connected
+13:47:25 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:47:27 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:47:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:47:28 [INFO] [/127.0.0.1:59394] <-> InitialHandler has pinged
+13:47:28 [INFO] [tmasik,/127.0.0.1:59395] <-> InitialHandler has connected
+13:47:28 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:49:01 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+13:49:01 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:49:06 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:49:06 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+13:50:34 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+13:50:35 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:50:44 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:50:44 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+13:51:27 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+13:51:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:51:31 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+13:51:31 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+13:57:30 [INFO] [tmasik] -> UpstreamBridge has disconnected
+13:57:30 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+13:57:30 [INFO] [/127.0.0.1:54129] <-> InitialHandler has pinged
+14:00:28 [INFO] [/127.0.0.1:58250] <-> InitialHandler has pinged
+14:00:29 [INFO] [tmasik,/127.0.0.1:58251] <-> InitialHandler has connected
+14:00:29 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:01:41 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:01:41 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:01:41 [INFO] [/127.0.0.1:58259] <-> InitialHandler has pinged
+14:05:27 [INFO] [tmasik,/127.0.0.1:64444] <-> InitialHandler has connected
+14:05:27 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:06:12 [INFO] §cCommand not found
+14:06:15 [INFO] Closing listener [id: 0xdd6a7636, L:/0:0:0:0:0:0:0:0:25565]
+14:06:15 [INFO] Closing pending connections
+14:06:15 [INFO] Disconnecting 1 connections
+14:06:15 [INFO] [tmasik] disconnected with: §f[Proxy] Proxy restarting.
+14:06:15 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:06:15 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:06:15 [INFO] Saving reconnect locations
+14:06:15 [INFO] Disabling plugins
+14:06:15 [INFO] Closing IO threads
+14:06:17 [INFO] Thank you and goodbye
+14:06:18 [INFO] Using standard Java JCE cipher.
+14:06:18 [INFO] Using standard Java compressor.
+14:06:18 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:06:18 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:06:18 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [WARNING] Forced host server pvp is not defined
+14:06:18 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:06:18 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:18 [INFO] Listening on /0.0.0.0:25565
+14:06:19 [INFO] [/127.0.0.1:64464] <-> InitialHandler has pinged
+14:06:20 [INFO] [/127.0.0.1:64469] <-> InitialHandler has pinged
+14:06:20 [INFO] [/127.0.0.1:64471] <-> InitialHandler has pinged
+14:06:21 [INFO] [/127.0.0.1:64473] <-> InitialHandler has connected
+14:06:21 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:06:28 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:06:28 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:06:28 [INFO] [/127.0.0.1:64477] <-> InitialHandler has pinged
+14:06:57 [INFO] Using standard Java JCE cipher.
+14:06:57 [INFO] Using standard Java compressor.
+14:06:57 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:06:57 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:06:57 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [WARNING] Error loading plugin ChestCommands
+java.lang.NoClassDefFoundError: org/bukkit/plugin/java/JavaPlugin
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:146)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.defineClass1(Native Method)
+	at java.lang.ClassLoader.defineClass(Unknown Source)
+	at java.security.SecureClassLoader.defineClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginClassloader.findClass(PluginClassloader.java:146)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:66)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at net.md_5.bungee.api.plugin.PluginManager.enablePlugin(PluginManager.java:340)
+	at net.md_5.bungee.api.plugin.PluginManager.loadPlugins(PluginManager.java:250)
+	at net.md_5.bungee.BungeeCord.start(BungeeCord.java:273)
+	at net.md_5.bungee.BungeeCordLauncher.main(BungeeCordLauncher.java:67)
+	at net.md_5.bungee.Bootstrap.main(Bootstrap.java:15)
+Caused by: java.lang.ClassNotFoundException: org.bukkit.plugin.java.JavaPlugin
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass0(PluginClassloader.java:97)
+	at net.md_5.bungee.api.plugin.PluginClassloader.loadClass(PluginClassloader.java:59)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 21 more
+14:06:57 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [WARNING] Forced host server pvp is not defined
+14:06:57 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:06:57 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:06:57 [INFO] Listening on /0.0.0.0:25565
+14:07:40 [INFO] [/127.0.0.1:50264] <-> InitialHandler has pinged
+14:07:40 [WARNING] [/127.0.0.1:50264] <-> InitialHandler - IOException: Ïðîãðàììà íà âàøåì õîñò-êîìïüþòåðå ðàçîðâàëà óñòàíîâëåííîå ïîäêëþ÷åíèå
+14:07:40 [INFO] [/127.0.0.1:50266] <-> InitialHandler has pinged
+14:07:41 [INFO] [/127.0.0.1:50268] <-> InitialHandler has connected
+14:07:41 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:09:07 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:09:07 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:09:22 [INFO] Closing listener [id: 0x47403501, L:/0:0:0:0:0:0:0:0:25565]
+14:09:22 [INFO] Closing pending connections
+14:09:22 [INFO] Disconnecting 0 connections
+14:09:23 [INFO] Saving reconnect locations
+14:09:23 [INFO] Disabling plugins
+14:09:23 [INFO] Closing IO threads
+14:10:02 [INFO] Using standard Java JCE cipher.
+14:10:02 [INFO] Using standard Java compressor.
+14:10:02 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+14:10:03 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+14:10:03 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [WARNING] Forced host server pvp is not defined
+14:10:03 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+14:10:03 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+14:10:03 [INFO] Listening on /0.0.0.0:25565
+14:14:27 [INFO] [/127.0.0.1:58329] <-> InitialHandler has pinged
+14:14:28 [INFO] [/127.0.0.1:58334] <-> InitialHandler has pinged
+14:14:29 [INFO] [tmasik,/127.0.0.1:58336] <-> InitialHandler has connected
+14:14:29 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:15:15 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+14:15:15 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:15:15 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:15:17 [INFO] [tmasik,/127.0.0.1:58342] <-> InitialHandler has connected
+14:15:17 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:20:29 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:20:29 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:20:40 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:20:41 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:25:08 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:25:08 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:25:15 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:25:15 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:31:04 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:31:05 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:31:08 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:31:08 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:43:38 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:43:38 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:44:14 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:44:14 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:44:14 [INFO] [/127.0.0.1:63401] <-> InitialHandler has pinged
+14:44:24 [INFO] [tmasik,/127.0.0.1:63404] <-> InitialHandler has connected
+14:44:24 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:49:50 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:49:50 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:50:20 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:50:20 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+14:53:22 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:53:22 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:53:22 [INFO] [/127.0.0.1:64494] <-> InitialHandler has pinged
+14:55:22 [INFO] [/127.0.0.1:64559] <-> InitialHandler has pinged
+14:55:38 [INFO] [tmasik,/127.0.0.1:64562] <-> InitialHandler has connected
+14:55:38 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:55:49 [INFO] [tmasik] -> UpstreamBridge has disconnected
+14:55:49 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:55:49 [INFO] [/127.0.0.1:64568] <-> InitialHandler has pinged
+14:56:12 [INFO] [tmasik,/127.0.0.1:64569] <-> InitialHandler has connected
+14:56:12 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:56:22 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+14:56:22 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+14:56:28 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+14:56:28 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+15:23:51 [INFO] [tmasik] -> UpstreamBridge has disconnected
+15:23:51 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+15:23:51 [INFO] [/127.0.0.1:59317] <-> InitialHandler has pinged
+16:46:44 [INFO] Using standard Java JCE cipher.
+16:46:44 [INFO] Using standard Java compressor.
+16:46:44 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+16:46:44 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+16:46:44 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [WARNING] Forced host server pvp is not defined
+16:46:44 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+16:46:44 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+16:46:44 [INFO] Listening on /0.0.0.0:25565
+16:47:19 [INFO] [/127.0.0.1:52203] <-> InitialHandler has pinged
+16:47:34 [INFO] [/127.0.0.1:52204] <-> InitialHandler has pinged
+16:47:35 [INFO] [/127.0.0.1:52205] <-> InitialHandler has connected
+16:47:35 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+16:48:06 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+16:48:07 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+16:48:18 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+16:48:18 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+16:48:23 [INFO] [tmasik] -> UpstreamBridge has disconnected
+16:48:23 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+19:44:12 [INFO] Using standard Java JCE cipher.
+19:44:12 [INFO] Using standard Java compressor.
+19:44:12 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+19:44:12 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+19:44:12 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:12 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:12 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:12 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:12 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:12 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [WARNING] Forced host server pvp is not defined
+19:44:13 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+19:44:13 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+19:44:13 [INFO] Listening on /0.0.0.0:25565
+19:51:40 [INFO] [/192.168.0.90:65346] <-> InitialHandler has pinged
+19:51:42 [INFO] [/192.168.0.90:65347] <-> InitialHandler has pinged
+19:51:54 [INFO] [/192.168.0.90:65348] <-> InitialHandler has connected
+19:51:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+19:52:05 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+19:52:05 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+19:53:24 [INFO] [tmasik] -> UpstreamBridge has disconnected
+19:53:24 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:20:25 [INFO] [/127.0.0.1:58690] <-> InitialHandler has pinged
+20:20:25 [INFO] [tmasik,/127.0.0.1:58691] <-> InitialHandler has connected
+20:20:25 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:20:33 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+20:20:34 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:31:43 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:31:43 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+20:31:54 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+20:31:54 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:31:54 [INFO] [tmasik] -> UpstreamBridge has disconnected
+20:31:56 [INFO] [tmasik,/127.0.0.1:64236] <-> InitialHandler has connected
+20:31:57 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:36:30 [INFO] [tmasik] -> UpstreamBridge has disconnected
+20:36:30 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:36:30 [INFO] [/127.0.0.1:61981] <-> InitialHandler has pinged
+20:37:25 [INFO] [/127.0.0.1:61986] <-> InitialHandler has pinged
+20:37:26 [INFO] [tmasik,/127.0.0.1:61987] <-> InitialHandler has connected
+20:37:26 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:37:32 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+20:37:32 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:38:57 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:38:57 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+20:46:38 [INFO] [tmasik] -> UpstreamBridge has disconnected
+20:46:38 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:46:38 [INFO] [/127.0.0.1:62005] <-> InitialHandler has pinged
+20:47:08 [INFO] [/127.0.0.1:62007] <-> InitialHandler has pinged
+20:47:14 [INFO] [tmasik,/127.0.0.1:62008] <-> InitialHandler has connected
+20:47:14 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:48:04 [INFO] Closing listener [id: 0x82d23080, L:/0:0:0:0:0:0:0:0:25565]
+20:48:04 [INFO] Closing pending connections
+20:48:04 [INFO] Disconnecting 1 connections
+20:48:04 [INFO] [tmasik] disconnected with: §f[Proxy] Proxy restarting.
+20:48:04 [INFO] [tmasik] -> UpstreamBridge has disconnected
+20:48:04 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:48:04 [INFO] Saving reconnect locations
+20:48:04 [INFO] Disabling plugins
+20:48:04 [INFO] Closing IO threads
+20:48:09 [INFO] Using standard Java JCE cipher.
+20:48:09 [INFO] Using standard Java compressor.
+20:48:09 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+20:48:09 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+20:48:09 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [WARNING] Forced host server pvp is not defined
+20:48:09 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+20:48:09 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+20:48:09 [INFO] Listening on /0.0.0.0:25565
+20:48:12 [INFO] [/127.0.0.1:62029] <-> InitialHandler has connected
+20:48:12 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:48:21 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+20:48:21 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:48:23 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:48:23 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+20:51:04 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+20:51:04 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:51:06 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:51:06 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+20:55:56 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+20:55:56 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+20:56:03 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+20:56:03 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:04:46 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:04:46 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:04:48 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:04:48 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:04:51 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:04:51 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:10:17 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:10:17 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:10:17 [INFO] [/127.0.0.1:64112] <-> InitialHandler has pinged
+21:10:17 [INFO] [tmasik,/127.0.0.1:64113] <-> InitialHandler has connected
+21:10:17 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:14:11 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:14:11 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:14:11 [INFO] [/127.0.0.1:50375] <-> InitialHandler has pinged
+21:14:12 [INFO] [tmasik,/127.0.0.1:50376] <-> InitialHandler has connected
+21:14:12 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:14:36 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:14:36 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:14:36 [INFO] [/127.0.0.1:50384] <-> InitialHandler has pinged
+21:14:37 [INFO] [tmasik,/127.0.0.1:50385] <-> InitialHandler has connected
+21:14:37 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:16:04 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:16:04 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:16:04 [INFO] [/127.0.0.1:50392] <-> InitialHandler has pinged
+21:16:04 [INFO] [tmasik,/127.0.0.1:50393] <-> InitialHandler has connected
+21:16:04 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:17:24 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:17:24 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:17:24 [INFO] [/127.0.0.1:50398] <-> InitialHandler has pinged
+21:17:25 [INFO] [tmasik,/127.0.0.1:50399] <-> InitialHandler has connected
+21:17:25 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:17:57 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:17:57 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:17:57 [INFO] [/127.0.0.1:50403] <-> InitialHandler has pinged
+21:17:58 [INFO] [tmasik,/127.0.0.1:50404] <-> InitialHandler has connected
+21:17:58 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:18:49 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:18:49 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:18:49 [INFO] [/127.0.0.1:50410] <-> InitialHandler has pinged
+21:18:50 [INFO] [tmasik,/127.0.0.1:50411] <-> InitialHandler has connected
+21:18:50 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:19:03 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:19:03 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:19:03 [INFO] [/127.0.0.1:50415] <-> InitialHandler has pinged
+21:19:04 [INFO] [tmasik,/127.0.0.1:50416] <-> InitialHandler has connected
+21:19:04 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:19:26 [INFO] [tmasik] disconnected with: §fServer closed
+21:19:26 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:19:26 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:19:28 [INFO] [tmasik,/127.0.0.1:50419] <-> InitialHandler has connected
+21:19:29 [INFO] [tmasik] disconnected with: §cCould not connect to a default or fallback server, please try again later: io.netty.channel.AbstractChannel$AnnotatedConnectException
+21:19:29 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:19:46 [INFO] Closing listener [id: 0x479b5532, L:/0:0:0:0:0:0:0:0:25565]
+21:19:46 [INFO] Closing pending connections
+21:19:46 [INFO] Disconnecting 0 connections
+21:19:46 [INFO] Saving reconnect locations
+21:19:46 [INFO] Disabling plugins
+21:19:46 [INFO] Closing IO threads
+21:19:50 [INFO] Using standard Java JCE cipher.
+21:19:50 [INFO] Using standard Java compressor.
+21:19:50 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+21:19:50 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:19:50 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [WARNING] Forced host server pvp is not defined
+21:19:50 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:19:50 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:50 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:19:51 [INFO] Listening on /0.0.0.0:25565
+21:19:54 [INFO] [/127.0.0.1:50447] <-> InitialHandler has connected
+21:19:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:20:39 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:20:39 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:20:40 [INFO] [/127.0.0.1:50451] <-> InitialHandler has pinged
+21:20:40 [INFO] [tmasik,/127.0.0.1:50452] <-> InitialHandler has connected
+21:20:40 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:12 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:12 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:12 [INFO] [/127.0.0.1:50456] <-> InitialHandler has pinged
+21:21:13 [INFO] [tmasik,/127.0.0.1:50457] <-> InitialHandler has connected
+21:21:13 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:13 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:21:13 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:13 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:16 [INFO] [tmasik,/127.0.0.1:50460] <-> InitialHandler has connected
+21:21:16 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:16 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:21:16 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:16 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:26 [INFO] [tmasik,/127.0.0.1:50464] <-> InitialHandler has connected
+21:21:26 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:26 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:21:26 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:26 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:36 [INFO] Using standard Java JCE cipher.
+21:21:36 [INFO] Using standard Java compressor.
+21:21:36 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+21:21:36 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+21:21:36 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [WARNING] Forced host server pvp is not defined
+21:21:36 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+21:21:36 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+21:21:36 [INFO] Listening on /0.0.0.0:25565
+21:21:39 [INFO] [/127.0.0.1:50484] <-> InitialHandler has connected
+21:21:39 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:39 [WARNING] [tmasik] <-> DownstreamBridge <-> [lobby] - IOException: Ïðîãðàììà íà âàøåì õîñò-êîìïüþòåðå ðàçîðâàëà óñòàíîâëåííîå ïîäêëþ÷åíèå
+21:21:39 [INFO] [tmasik] disconnected with: §fIOException : Ïðîãðàììà íà âàøåì õîñò-êîìïüþòåðå ðàçîðâàëà óñòàíîâëåííîå ïîäêëþ÷åíèå @ sun.nio.ch.SocketDispatcher:-2
+21:21:39 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:39 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:44 [INFO] [tmasik,/127.0.0.1:50487] <-> InitialHandler has connected
+21:21:44 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:44 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:21:44 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:44 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:21:48 [INFO] [tmasik,/127.0.0.1:50490] <-> InitialHandler has connected
+21:21:48 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:21:48 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:21:48 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:21:48 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:22:03 [INFO] [tmasik,/127.0.0.1:50500] <-> InitialHandler has connected
+21:22:03 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:22:03 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:22:03 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:22:03 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:23:17 [INFO] [/127.0.0.1:50518] <-> InitialHandler has pinged
+21:23:18 [INFO] [/127.0.0.1:50520] <-> InitialHandler has pinged
+21:23:18 [INFO] [/127.0.0.1:50522] <-> InitialHandler has pinged
+21:23:42 [INFO] [/127.0.0.1:50563] <-> InitialHandler has pinged
+21:23:43 [INFO] [tmasik,/127.0.0.1:50564] <-> InitialHandler has connected
+21:23:43 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:23:44 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:23:44 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:23:44 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:24:34 [INFO] [/127.0.0.1:50572] <-> InitialHandler has connected
+21:24:34 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:25:16 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:25:16 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:25:16 [INFO] [/127.0.0.1:50577] <-> InitialHandler has pinged
+21:25:17 [INFO] [tmasik,/127.0.0.1:50578] <-> InitialHandler has connected
+21:25:17 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:25:17 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:25:17 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:25:17 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:25:41 [INFO] [/127.0.0.1:50582] <-> InitialHandler has pinged
+21:25:42 [INFO] [tmasik,/127.0.0.1:50583] <-> InitialHandler has connected
+21:25:42 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:25:42 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:25:42 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:25:42 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:25:48 [INFO] [tmasik,/127.0.0.1:50586] <-> InitialHandler has connected
+21:25:48 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:27:27 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:27:27 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:27:27 [INFO] [/127.0.0.1:50590] <-> InitialHandler has pinged
+21:27:28 [INFO] [tmasik,/127.0.0.1:50591] <-> InitialHandler has connected
+21:27:28 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:27:28 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:27:28 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:27:28 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:27:48 [INFO] [tmasik,/127.0.0.1:50594] <-> InitialHandler has connected
+21:27:48 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:27:49 [INFO] [tmasik] disconnected with: §f[Proxy] Lost connection to server.
+21:27:49 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:27:49 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:27:54 [INFO] [/127.0.0.1:50598] <-> InitialHandler has pinged
+21:27:55 [INFO] [tmasik,/127.0.0.1:50599] <-> InitialHandler has connected
+21:27:55 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:27:55 [WARNING] [tmasik] <-> DownstreamBridge <-> [lobby] - IOException: Ïðîãðàììà íà âàøåì õîñò-êîìïüþòåðå ðàçîðâàëà óñòàíîâëåííîå ïîäêëþ÷åíèå
+21:27:55 [INFO] [tmasik] disconnected with: §fIOException : Ïðîãðàììà íà âàøåì õîñò-êîìïüþòåðå ðàçîðâàëà óñòàíîâëåííîå ïîäêëþ÷åíèå @ sun.nio.ch.SocketDispatcher:-2
+21:27:55 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:27:55 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:28:38 [INFO] [/127.0.0.1:50604] <-> InitialHandler has pinged
+21:28:39 [INFO] [tmasik,/127.0.0.1:50605] <-> InitialHandler has connected
+21:28:39 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:44:53 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:44:53 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:44:53 [INFO] [/127.0.0.1:58592] <-> InitialHandler has pinged
+21:44:54 [INFO] [tmasik,/127.0.0.1:58593] <-> InitialHandler has connected
+21:44:54 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:48:09 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:48:09 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:48:09 [INFO] [/127.0.0.1:58602] <-> InitialHandler has pinged
+21:48:10 [INFO] [tmasik,/127.0.0.1:58603] <-> InitialHandler has connected
+21:48:10 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+21:48:18 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:48:18 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+21:49:38 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:49:38 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:49:39 [INFO] [/127.0.0.1:58610] <-> InitialHandler has pinged
+21:49:39 [INFO] [tmasik,/127.0.0.1:58611] <-> InitialHandler has connected
+21:49:39 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:49:49 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:49:49 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:49:50 [INFO] [/127.0.0.1:58615] <-> InitialHandler has pinged
+21:49:50 [INFO] [tmasik,/127.0.0.1:58616] <-> InitialHandler has connected
+21:49:50 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:50:12 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:50:12 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:50:12 [INFO] [/127.0.0.1:58621] <-> InitialHandler has pinged
+21:50:14 [INFO] [/127.0.0.1:58623] <-> InitialHandler has pinged
+21:50:15 [INFO] [tmasik,/127.0.0.1:58624] <-> InitialHandler has connected
+21:50:15 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:50:29 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:50:29 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:50:29 [INFO] [/127.0.0.1:58628] <-> InitialHandler has pinged
+21:50:32 [INFO] [tmasik,/127.0.0.1:58629] <-> InitialHandler has connected
+21:50:32 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+21:50:45 [INFO] [tmasik] -> UpstreamBridge has disconnected
+21:50:45 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+21:50:45 [INFO] [/127.0.0.1:58634] <-> InitialHandler has pinged
+21:51:01 [INFO] Closing listener [id: 0x10bf33fd, L:/0:0:0:0:0:0:0:0:25565]
+21:51:01 [INFO] Closing pending connections
+21:51:01 [INFO] Disconnecting 0 connections
+21:51:01 [INFO] Saving reconnect locations
+21:51:01 [INFO] Disabling plugins
+21:51:01 [INFO] Closing IO threads
+22:01:58 [INFO] Using standard Java JCE cipher.
+22:01:58 [INFO] Using standard Java compressor.
+22:01:58 [INFO] Enabled BungeeCord version git:BungeeCord-Bootstrap:1.17-R0.1-SNAPSHOT:bda1605:1598
+22:01:58 [INFO] Discovered module: ModuleSpec(name=cmd_alert, file=modules\cmd_alert.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Discovered module: ModuleSpec(name=cmd_find, file=modules\cmd_find.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Discovered module: ModuleSpec(name=cmd_list, file=modules\cmd_list.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Discovered module: ModuleSpec(name=cmd_send, file=modules\cmd_send.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Discovered module: ModuleSpec(name=cmd_server, file=modules\cmd_server.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Discovered module: ModuleSpec(name=reconnect_yaml, file=modules\reconnect_yaml.jar, provider=JenkinsModuleSource())
+22:01:58 [INFO] Loaded plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Loaded plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Loaded plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Loaded plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Loaded plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Loaded plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [WARNING] Forced host server pvp is not defined
+22:01:58 [WARNING] MinecraftForge support is currently unmaintained and may have unresolved issues. Please use at your own risk.
+22:01:58 [INFO] Enabled plugin reconnect_yaml version git:reconnect_yaml:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Enabled plugin cmd_find version git:cmd_find:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Enabled plugin cmd_server version git:cmd_server:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Enabled plugin cmd_alert version git:cmd_alert:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Enabled plugin cmd_send version git:cmd_send:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Enabled plugin cmd_list version git:cmd_list:1.17-R0.1-SNAPSHOT:bda1605:1598 by SpigotMC
+22:01:58 [INFO] Listening on /0.0.0.0:25565
+22:02:01 [INFO] [/127.0.0.1:58719] <-> InitialHandler has pinged
+22:02:01 [INFO] [/127.0.0.1:58721] <-> InitialHandler has connected
+22:02:03 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:06:35 [INFO] [/127.0.0.1:58748] <-> InitialHandler has pinged
+22:06:36 [INFO] [/127.0.0.1:58749] <-> InitialHandler has connected
+22:06:36 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+22:06:44 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:06:44 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+22:06:44 [INFO] [/127.0.0.1:58755] <-> InitialHandler has pinged
+22:06:57 [INFO] [tmasik,/127.0.0.1:58756] <-> InitialHandler has connected
+22:06:57 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+22:07:02 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:07:03 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+22:07:08 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:07:08 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:07:08 [INFO] [/127.0.0.1:58763] <-> InitialHandler has pinged
+22:07:10 [INFO] [tmasik,/127.0.0.1:58765] <-> InitialHandler has connected
+22:07:10 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:08:44 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:08:44 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:08:44 [INFO] [/127.0.0.1:58771] <-> InitialHandler has pinged
+22:08:45 [INFO] [tmasik,/127.0.0.1:58772] <-> InitialHandler has connected
+22:08:45 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:09:05 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:09:05 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:09:05 [INFO] [/127.0.0.1:58780] <-> InitialHandler has pinged
+22:09:06 [INFO] [tmasik,/127.0.0.1:58781] <-> InitialHandler has connected
+22:09:06 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:09:28 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:09:28 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:09:28 [INFO] [/127.0.0.1:58785] <-> InitialHandler has pinged
+22:09:28 [INFO] [tmasik,/127.0.0.1:58786] <-> InitialHandler has connected
+22:09:28 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:09:38 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:09:38 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:09:38 [INFO] [/127.0.0.1:58790] <-> InitialHandler has pinged
+22:09:38 [INFO] [tmasik,/127.0.0.1:58791] <-> InitialHandler has connected
+22:09:38 [INFO] [tmasik] <-> ServerConnector [lobby] has connected
+22:09:48 [INFO] [tmasik] <-> ServerConnector [anarh] has connected
+22:09:48 [INFO] [tmasik] <-> DownstreamBridge <-> [lobby] has disconnected
+22:09:53 [INFO] [tmasik] -> UpstreamBridge has disconnected
+22:09:53 [INFO] [tmasik] <-> DownstreamBridge <-> [anarh] has disconnected
+22:09:53 [INFO] [/127.0.0.1:58797] <-> InitialHandler has pinged
+22:10:31 [INFO] §cCommand not found
+22:10:33 [INFO] Closing listener [id: 0x2b44226c, L:/0:0:0:0:0:0:0:0:25565]
+22:10:33 [INFO] Closing pending connections
+22:10:33 [INFO] Disconnecting 0 connections
+22:10:33 [INFO] Saving reconnect locations
+22:10:33 [INFO] Disabling plugins
+22:10:33 [INFO] Closing IO threads

@@ -1,0 +1,23 @@
+timestamps:
+  kits:
+    blaze_rod: 1628707494197
+    gold_nugget: 1628708988561
+    tools: 1628706939777
+  logout: 1628708993326
+  login: 1628708988594
+logoutlocation:
+  world: world
+  x: -111.5
+  y: 153.0
+  z: 170.5
+  yaw: -122.84251
+  pitch: 30.232243
+lastAccountName: tmasik
+ipAddress: 127.0.0.1
+lastlocation:
+  world: world
+  x: -111.5
+  y: 153.0
+  z: 170.5
+  yaw: -220.675
+  pitch: 15.791096
